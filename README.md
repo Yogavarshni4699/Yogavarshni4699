@@ -1,18 +1,22 @@
 ## Hi there!
 
-# Hi, I'm Yogavarshni   
+# Hey, I'm Yogavarshni 👋  
 
-🎓 MS in Data Science @ SJSU  
-💼 4+ yrs in Data Science, GTM Analytics & FinTech  
-🚀 Building with Python, SQL, ML, RAG & GenAI  
-✨ Passionate about SaaS, AI, and solving real-world problems  
+🌟 Data Scientist & Analyst — blending data, product, and AI to create impact.  
+🎓 MS in Data Science @ San Jose State University  
+💼 4+ years across SaaS, FinTech, and AI projects  
+🚀 Currently building with LLMs, RAG, and AI agents  
 
----
 
-### 🌐 Find me here
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://yogavarshni.info/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogavarshniramachandran)   
+### ✨ A little about me
+- 🔍 Love solving problems with data + storytelling  
+- 📊 Experienced in GTM analytics, experimentation, and product insights  
+- 🤖 Exploring GenAI, fraud detection, and AI-powered SaaS tools  
+- 🌱 Always learning, always curious  
 
----
 
-✨ *“Turning data into insights & AI into impact.”*  
+### 🔗 Let’s Connect
+[🌐 Portfolio](https://yogavarshni.info) | [💼 LinkedIn](https://linkedin.com/in/yogavarshniramachandran) | [🐦 Twitter](https://x.com/Yogavarshni)
+
+
+
