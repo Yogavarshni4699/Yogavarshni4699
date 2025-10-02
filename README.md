@@ -1,6 +1,6 @@
 ## Hi there!
 
-# Hey, I'm Yogavarshni 👋  
+# Hey, I'm Yogavarshni Ramachandran
 
 🌟 Data Scientist & Analyst — blending data, product, and AI to create impact.  
 🎓 MS in Data Science @ San Jose State University  
@@ -9,10 +9,12 @@
 
 
 ### ✨ A little about me
-- 🔍 Love solving problems with data + storytelling  
-- 📊 Experienced in GTM analytics, experimentation, and product insights  
-- 🤖 Exploring GenAI, fraud detection, and AI-powered SaaS tools  
-- 🌱 Always learning, always curious  
+- Love solving problems with data + storytelling  
+- Experienced in GTM analytics, experimentation, and product insights  
+- Exploring GenAI, fraud detection, and AI-powered SaaS tools  
+- Always learning, always curious
+- I’ve added projects here that I’ve personally built — from AI website generators to customer churn models  
+
 
 
 ### 🔗 Let’s Connect
