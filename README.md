@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 I am Yogavarshni Ramachandran
-DATA SCIENTIST • ML ENGINEER • AI ENGINEER
 
-ABOUT ME
+MS in Applied Data Science
+
+ABOUT ME:
 
 My journey into data science started in biomedical research, where I spent two years working on cancer studies. During that time, I realized how important computational biology was in making new discoveries. That experience made me curious about machine learning, and soon I found myself wanting to learn more about data and how it can be used to solve real problems.
 
