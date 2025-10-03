@@ -8,7 +8,7 @@
 🚀 Currently building with LLMs, RAG, and AI agents  
 
 
-### ✨ A little about me
+### A little about me
 - Love solving problems with data + storytelling  
 - Experienced in GTM analytics, experimentation, and product insights  
 - Exploring GenAI, fraud detection, and AI-powered SaaS tools  
